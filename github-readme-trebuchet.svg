@@ -1,0 +1,22 @@
+<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* Default Text Color (Light Mode) */
+    .text-style {
+      font-family: 'Trebuchet MS', Helvetica, sans-serif;
+      font-weight: bold;
+      font-size: 24px;
+      fill: #333333;
+    }
+
+    /* Dark Mode Adjustment for GitHub */
+    @media (prefers-color-scheme: dark) {
+      .text-style {
+        fill: #ffffff;
+      }
+    }
+  </style>
+
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text-style">
+    Your Title Here
+  </text>
+</svg>
