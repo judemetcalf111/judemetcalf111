@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+  <img src="github-readme-trebuchet.svg" alt="My Header Image" width="100%">
+</div>
+
 
 <!--
 **judemetcalf111/judemetcalf111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
