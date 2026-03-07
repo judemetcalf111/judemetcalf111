@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![LinkedIn](https://img.shields.io/badge/in-Jude%20L.%20Metcalf-464646?style=flat-square&labelColor=0077B5)](www.linkedin.com/in/judemetcalf111)
-[![Email](https://img.shields.io/badge/jmet9477@uni.sydney.edu.au-%23171A21.svg?style=flat-square&logo=Gmail&logoColor=white)](mailto:jmet9477@uni.sydney.edu.au)
+[![LinkedIn](https://img.shields.io/badge/in-Jude%20L.%20Metcalf-464646?style=flat-square&labelColor=0077B5)](https://www.linkedin.com/in/judemetcalf111)
+[![Email](https://img.shields.io/badge/jmet9477@uni.sydney.edu.au-%464646.svg?style=flat-square&logo=Gmail&logoColor=white)](mailto:jmet9477@uni.sydney.edu.au)
 
 <!--
 Hey! I'm an Honours student in physics at the University of Sydney, working with the Complex Systems Group. My thesis has a focus on modelling the brain, how it efficiently learns, and how the most robust and efficient attention mechanism may arise out of neural dynamics present in every one of us. 
