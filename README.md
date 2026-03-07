@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/in-Jude%20L.%20Metcalf-464646?style=flat-square&labelColor=0077B5)](www.linkedin.com/in/judemetcalf111)
 [![Email](https://img.shields.io/badge/jmet9477@uni.sydney.edu.au-%23171A21.svg?style=flat-square&logo=Gmail&logoColor=white)](mailto:jmet9477@uni.sydney.edu.au)
 
+<!--
 Hey! I'm an Honours student in physics at the University of Sydney, working with the Complex Systems Group. My thesis has a focus on modelling the brain, how it efficiently learns, and how the most robust and efficient attention mechanism may arise out of neural dynamics present in every one of us. 
 
 This will naturally lead into formulating efficient attention mechanisms for brain-inspired AI, deep learning algorithms, and most excitingly an extention of Hamiltonian MCMC methods to explore highly complex natural environments. 
 
 I've also been involved in many other projects, from publishing an open-source quantum error detection/mitigation package for hardware-aware quantum compilation, to building a retro arcade machine from a Raspberry Pi 4B. Take a look!
+-->
 
+![Body](body.svg)
 
 ## Experience and Languages
 
