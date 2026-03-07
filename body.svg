@@ -17,13 +17,15 @@
   <text x="10" y="55" class="text-style">This will naturally lead into formulating efficient attention mechanisms for brain-inspired AI, deep learning algorithms, and most excitingly an extention of Hamiltonian MCMC methods to explore highly complex natural environments.</text>
   <text x="10" y="85" class="text-style">I've also been involved in many other projects, from publishing an open-source quantum error detection/mitigation package for hardware-aware quantum compilation, to building a retro arcade machine from a Raspberry Pi 4B. Take a look!</text>
 </svg> -->
-<svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
   <style>
     .container {
       font-family: 'Trebuchet MS', sans-serif;
       font-size: 16px;
       line-height: 1.5;
       color: #333333;
+      margin: 0;
+      padding: 0;
     }
     /* This removes any phantom line of space at the top from github */
     .container p:first-child {
@@ -39,7 +41,7 @@
     }
   </style>
   
-  <foreignObject x="0" y="0" width="800" height="250">
+  <foreignObject x="1" y="0" width="798" height="250">
     <div xmlns="http://www.w3.org/1999/xhtml" class="container">
       <p>Hey! I'm an Honours student in physics at the University of Sydney, working with the Complex Systems Group. My thesis has a focus on modelling the brain, how it efficiently learns, and how the most robust and efficient attention mechanism may arise out of neural dynamics present in every one of us.</p>
       <p>This will naturally lead into formulating efficient attention mechanisms for brain-inspired AI, deep learning algorithms, and most excitingly an extention of Hamiltonian MCMC methods to explore highly complex natural environments.</p>
