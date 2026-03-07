@@ -1,9 +1,9 @@
-<svg width="600" height="50" viewBox="0 0 600 50" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="20" viewBox="0 0 800 20" xmlns="http://www.w3.org/2000/svg">
   <style>
     .text-style {
       font-family: 'Trebuchet MS', Helvetica, sans-serif;
       font-weight: bold;
-      font-size: 36px;
+      font-size: 18px;
       fill: #333333;
     }
 
